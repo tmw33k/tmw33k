@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I`m currently learning C<br>📢 Using NixOs on main<br>➡️ Going to make LFS project<br>🤔 Think about making full module linux project
+📚 I`m currently learning C<br>📢 Using NixOs on main<br>➡️ Going to make LFS project<br>🤔 Think about making full module operating system
 
 
 # 💻 Tech Stack:
